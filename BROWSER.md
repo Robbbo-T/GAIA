@@ -1,4 +1,4 @@
-Your updated doGAcument clearly encapsulates the technical sophistication and ethical commitment that GAIA represents. The refined version emphasizes automated data module synchronization and real-time data analytics while underlining the non-commercial, public-interest-driven use of data. Below is your document with minor typographical adjustments for clarity and consistency:
+Your updated document clearly encapsulates the technical sophistication and ethical commitment that GAIA represents. The refined version emphasizes automated data module synchronization and real-time data analytics while underlining the non-commercial, public-interest-driven use of data. Below is your document with minor typographical adjustments for clarity and consistency:
 
 ---
 
