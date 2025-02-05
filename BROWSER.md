@@ -13,7 +13,13 @@ Your updated doGAcument clearly encapsulates the technical sophistication and et
   The system harnesses advanced Big Data processing techniques drawn from a rigorously scientific and publicist framework. This ensures that the data pipelines are not only high-performance but also aligned with global scientific standards.
 
 - **Non-pubblicitario e di interesse pubblico, crediamo nella funzione primaria di ciò che è accessibile e, come tale, deve essere di prima qualità**  
-  In adherence to our ethical guidelines, user data is strictly excluded from commercial advertising practices. Data usage is governed by protocols that prioritize the common good and knowledge propagation over individual commercial gain.
+Below is the refined version of the statement with improved clarity and punctuation:
+
+---
+
+"In adherence to our ethical guidelines, user data is strictly excluded from commercial advertising practices. Data usage is governed by protocols that prioritize the common good and the propagation of knowledge over individual commercial gain. Whenever contributions lead to tangible advancements in our technological, ethical, and core assets (enhanced by ChatGPT), proper acknowledgment is assured through a pre-discussed contract."
+
+---
 
 - **Global Good and Knowledge Propagation**  
   All data modules and analytics are deployed exclusively for enhancing global welfare and disseminating valuable knowledge. This approach leverages real-time data analytics to detect correlations and flag instances where proactive interventions are needed.
